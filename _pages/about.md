@@ -8,6 +8,5 @@ redirect_from:
 ---
 
 I am a second-year PhD student in the Department of Economics at KU Leuven. My main research interests are IO and demand estimation. I currently work on demand estimation in the smartphone industry and online platform competition.
-You can download my CV [here]().
 
 
