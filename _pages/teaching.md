@@ -10,6 +10,6 @@ Date: Spring 2024
 Advanced Master/Ph.D., KU Leuven\
 Date: Spring 2024
 
-### Network Economics, TA
+### Economics of Network Industries, TA
 Master's course, KU Leuven\
 Date: Fall 2024
