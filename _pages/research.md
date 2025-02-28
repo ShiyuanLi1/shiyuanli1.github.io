@@ -5,7 +5,7 @@ title: "Research"
 
 ## Working paper
 
-* Quantifying Supply Chain Risk with Sales Data in the Smartphone Industry,
+* Quantifying the Side Effects of Trade Sanctions: Evidence from the European Smartphone Market,,
    with [Ambre Nicolle](https://ambrenicolle.com/) and [Frank Verboven](https://sites.google.com/site/frankverbo/home)
 
 ## Work in progress
