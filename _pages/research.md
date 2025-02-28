@@ -5,7 +5,7 @@ title: "Research"
 
 ## Working paper
 
-* [Quantifying Supply Chain Risk with Sales Data in the Smartphone Industry](http://ShiyuanLi1.github.io/files/Quantifying_Supply_Chain_Risk_with_Sales_Data_in_the_Smartphone_Industry_EARIE.pdf)\
+* Quantifying Supply Chain Risk with Sales Data in the Smartphone Industry,
    with [Ambre Nicolle](https://ambrenicolle.com/) and [Frank Verboven](https://sites.google.com/site/frankverbo/home)
 
 ## Work in progress
