@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year PhD student in the Department of Economics at KU Leuven ([IO@Leuven](https://sites.google.com/view/ioleuven/home)). My main research interests are IO and demand estimation. I currently work on demand estimation in the global smartphone industry and online platforms.
+I am a fourth-year PhD student in the Department of Economics at KU Leuven ([IO@Leuven](https://sites.google.com/view/ioleuven/home)). My main research interests are IO and demand estimation. I currently work on demand estimation in the global smartphone industry and online platforms.
 
 
