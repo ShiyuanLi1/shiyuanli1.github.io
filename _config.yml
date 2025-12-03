@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sl_photo.jpg"
+  avatar           : "SL_photo.jpg"
   name             : "Shiyuan Li"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics at KU Leuven"
