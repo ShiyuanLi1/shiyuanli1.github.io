@@ -10,5 +10,5 @@ I am a fourth-year PhD student in the Department of Economics at KU Leuven (<a h
 </p>
 
 <p>
-My main research interests are IO and demand estimation. I currently work on demand estimation in the global smartphone industry and online platforms.
+My main research interests are IO and demand estimation. I currently work on demand estimation in the global smartphone industry and online platforms competition.
 </p>
