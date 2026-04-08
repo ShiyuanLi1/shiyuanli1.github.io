@@ -1,0 +1,63 @@
+title: Shiyuan Li
+description: Personal website
+theme: bay_jekyll_theme
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Research
+      slug: /research
+    - name: Teaching
+      slug: /teaching
+    - name: CV
+      slug: /cv
+
+footer:
+  show_powered_by: false
+
+  contact:
+    - type: email
+      name: Email
+      value: shiyuan.li@kuleuven.be
+
+    - name: Address
+      value: Naamsestraat 69, 3000 Leuven, Belgium
+  follow:
+    - type: github
+      name: GitHub
+      link: https://github.com/ShiyuanLi1
+
+#    - type: linkedin
+#      name: LinkedIn
+#      link: https://www.linkedin.com/in/yourprofile
+
+#    - type: google_scholar
+#      name: Google Scholar
+#      link: https://scholar.google.com/citations?user=YOUR_ID
+
+#    - type: rss
+#      name: RSS
+#      link: /feed.xml
+
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
