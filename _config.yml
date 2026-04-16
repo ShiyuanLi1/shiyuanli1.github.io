@@ -20,6 +20,7 @@ footer:
     - type: email
       name: Email
       value: shiyuan.li@kuleuven.be
+      link: mailto:shiyuan.li@kuleuven.be
 
     - name: Address
       value: Naamsestraat 69, 3000 Leuven, Belgium
@@ -39,6 +40,12 @@ footer:
 #    - type: rss
 #      name: RSS
 #      link: /feed.xml
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+google_analytics: G-LL1P047KYB
+
 
 markdown: kramdown
 sass:
