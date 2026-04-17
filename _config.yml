@@ -1,6 +1,8 @@
 title: Shiyuan Li
 description: Personal website
 theme: bay_jekyll_theme
+google_analytics: "G-LL1P047KYB"
+
 
 header:
   pages:
@@ -40,11 +42,6 @@ footer:
 #    - type: rss
 #      name: RSS
 #      link: /feed.xml
-
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-google_analytics: G-LL1P047KYB
 
 
 markdown: kramdown
