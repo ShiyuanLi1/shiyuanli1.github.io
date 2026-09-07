@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I am a fourth-year PhD student in the Department of Economics at KU Leuven (<a href="https://sites.google.com/view/ioleuven/home" target="_blank">IO@Leuven</a>). 
+I am a fifth-year PhD student in the Department of Economics at KU Leuven (<a href="https://sites.google.com/view/ioleuven/home" target="_blank">IO@Leuven</a>). 
 </p>
 
 <p>
